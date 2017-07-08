@@ -17,6 +17,7 @@
 
 # Installation
 
+**If use BDHelper put your helper bot Username Without @ in bot.lua, line 22
 
 ```sh
 # Let's install the bot.
@@ -33,22 +34,17 @@ cd sam
 chmod 777 autobd.sh
 screen ./autobd.sh
 ```
-
 * * *
 
 # Support and Development
 
 More information [fire](https://telegram.me/joinchat/ENYnv0Lwb7n0bFvCxChqZw)
 
-
-
 * * *
 
 # Developers!
 
 [aliaz](https://github.com/aliaz003) ([Telegram](https://telegram.me/aliaz))
-
-
 
 ### Our Telegram channel:
 
